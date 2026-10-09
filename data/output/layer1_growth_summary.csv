@@ -1,0 +1,12 @@
+protocol,seed_contracts,relationship_edges,unique_related_addresses
+Aave,2,63,45
+Balancer,1,400,32
+Compound,2,639,208
+Curve,1,10,3
+ENS,2,298,63
+EigenLayer,4,1055,537
+Lido,2,402,303
+Morpho,1,400,44
+Pendle,1,374,139
+Uniswap,4,859,215
+ALL,27,4500,1572

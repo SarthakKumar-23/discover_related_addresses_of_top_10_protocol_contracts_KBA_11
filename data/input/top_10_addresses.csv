@@ -1,0 +1,28 @@
+protocol,contract_name,address,role,network,source_url
+Lido,Lido Locator,0xC1d0b3DE6792Bf6b4b37EccdcC24e45978Cfd2Eb,protocol address book / locator,Ethereum Mainnet,https://docs.lido.fi/deployed-contracts/
+Lido,Lido / stETH,0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84,core staking pool / token,Ethereum Mainnet,https://docs.lido.fi/deployed-contracts/
+Lido,Withdrawal Queue ERC721,0x889edC2eDab5f40e902b864aD4d7AdE8E412F9B1,withdrawal queue,Ethereum Mainnet,https://docs.lido.fi/deployed-contracts/
+Aave,Aave V3 Pool,0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2,core lending pool,Ethereum Mainnet,https://github.com/aave-dao/aave-address-book/blob/main/src/AaveV3Ethereum.sol
+Aave,PoolAddressesProvider,0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e,address provider,Ethereum Mainnet,https://github.com/aave-dao/aave-address-book/blob/main/src/AaveV3Ethereum.sol
+Aave,ACL Manager,0xc2aaCf6553D20d1e9d78E365AAba8032af9c85b0,access control,Ethereum Mainnet,https://github.com/aave-dao/aave-address-book/blob/main/src/AaveV3Ethereum.sol
+Uniswap,V4 PoolManager,0x000000000004444c5dc75cB358380D2e3dE08A90,AMM singleton,Ethereum Mainnet,https://developers.uniswap.org/docs/protocols/v4/deployments
+Uniswap,V4 PositionManager,0xbd216513d74c8cf14cf4747e6aaa6420ff64ee9e,position manager,Ethereum Mainnet,https://developers.uniswap.org/docs/protocols/v4/deployments
+Uniswap,V3 Factory,0x1F98431c8aD98523631AE4a59f267346ea31F984,factory,Ethereum Mainnet,https://developers.uniswap.org/docs/protocols/v3/deployments/v3-ethereum-deployments
+Uniswap,V2 Factory,0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f,factory,Ethereum Mainnet,https://developers.uniswap.org/docs/protocols/v2/deployments
+Curve,AddressProvider,0x0000000022D53366457F9d5E68Ec105046FC4383,registry entry point,Ethereum Mainnet,https://curve.readthedocs.io/registry-address-provider.html
+Curve,Registry,0x90e00ACe148ca3b23Ac1bC8C240C2a7Dd9c2d7f5,pool registry,Ethereum Mainnet,https://github.com/curvefi/curve-pool-registry
+Morpho,Morpho Blue,0xBBBBBbbBBb9cC5e90e3b3Af64bdAF62C37EEFFCb,core lending singleton,Ethereum Mainnet,https://docs.morpho.org/developers/borrow/tutorials/get-data/
+EigenLayer,DelegationManager,0x39053D51B77DC0d36036Fc1fCc8Cb819df8Ef37A,core restaking,Ethereum Mainnet,https://github.com/Layr-Labs/eigenlayer-contracts/blob/main/README.md
+EigenLayer,StrategyManager,0x858646372CC42E1A627fcE94aa7A7033e7CF075A,core restaking,Ethereum Mainnet,https://github.com/Layr-Labs/eigenlayer-contracts/blob/main/README.md
+EigenLayer,EigenPodManager,0x91E677b07F7AF907ec9a428aafA9fc14a0d3A338,core restaking,Ethereum Mainnet,https://github.com/Layr-Labs/eigenlayer-contracts/blob/main/README.md
+EigenLayer,AVSDirectory,0x135dda560e946695d6f155dacafc6f1f25c1f5af,AVS registry,Ethereum Mainnet,https://github.com/Layr-Labs/eigenlayer-contracts/blob/main/README.md
+EigenLayer,RewardsCoordinator,0x7750d328b314EfFa365A0402CcfD489B80B0adda,rewards,Ethereum Mainnet,https://github.com/Layr-Labs/eigenlayer-contracts/blob/main/README.md
+Pendle,Pendle Router,0x888888888889758F76e7103c6CbF23ABbF58F946,router,Ethereum Mainnet,https://docs.pendle.finance/pendle-v2-dev/Deployments
+Pendle,Pendle Market Factory V3,0x1A6fCc85557BC4fB7B534ed835a03EF056c222E2,market factory,Ethereum Mainnet,https://docs.pendle.finance/pendle-v2-dev/Deployments
+Compound,Compound III USDC Comet,0xc3d688B66703497DAA19211EEdff47f25384cdc3,core lending market,Ethereum Mainnet,https://github.com/compound-finance/comet-extension
+Compound,Configurator,0x316f9708bB98af7dA9c68C1C3b5e79039cD336E3,market configurator,Ethereum Mainnet,https://github.com/compound-finance/comet-extension
+Compound,Rewards,0x1B0e765F6224C21223AeA2af16c1C46E38885a40,rewards,Ethereum Mainnet,https://github.com/compound-finance/comet-extension
+ENS,ENS Registry,0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e,core registry,Ethereum Mainnet,https://github.com/ensdomains/ens-contracts/wiki/ENS-Contract-Deployments
+ENS,NameWrapper,0x0635513f179D50A207757E05759CbD106d7dFcE8,wrapped names,Ethereum Mainnet,https://github.com/ensdomains/ens-contracts/wiki/ENS-Contract-Deployments
+ENS,ETH Registrar Controller,0x59E16fcCd424Cc24e280Be16E11Bcd56fb0CE547,.eth registrar,Ethereum Mainnet,https://github.com/ensdomains/ens-contracts/wiki/ENS-Contract-Deployments
+Balancer,Balancer V2 Vault,0xBA12222222228d8Ba445958a75a0704d566BF2C8,vault / AMM settlement,Ethereum Mainnet,https://dev.balancer.fi/resources/flash-loans
